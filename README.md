@@ -1,6 +1,6 @@
 ## Resume Builder
 
-This is a simple resume builder that uses Harvard Template.
+This is a simple resume builder that uses Harvard Template built with NextJS.
 
 ## Instructions
 
